@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Atualmente, trabalho como Monitor de Lógica de Programação no IFSul campus Pelotas<br>🌱 Estou estudando React, JavaScript, Laravel, Supabase e  NOSQL.
+Sou desenvolvedor FullStack
+🌱 Estou estudando React, SpringBoot e Docker.
 
 ## Repositório disponível [clicando aqui](https://argelhr.netlify.app/)
 
